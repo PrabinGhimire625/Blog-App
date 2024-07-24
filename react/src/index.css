@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.custom-image {
+  border-radius: 50%; /* Adjust the value as needed */
+}
+
+
+.profileDiv{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 100px;
+}
